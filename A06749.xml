@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon of the communion of saints; preached by Edward Maie, chaplaine to the honorable societie of Lincolnes Inne</title>
+            <author>Maie, Edward.</author>
+         </titleStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A06749</idno><idno type="EEBO-CITATION">99840178</idno>
+  <idno type="VID">4653</idno>
+  <idno type="EEBO-PROQUEST">2240900414</idno>
+  <idno type="STC">STC 17195</idno>
+  <idno type="STC">ESTC S104440</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99840178e"/>
+            <note>(EEBO-TCP ; phase 2, no. A06749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 851:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon of the communion of saints; preached by Edward Maie, chaplaine to the honorable societie of Lincolnes Inne</title>
+                  <author>Maie, Edward.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Dawson for George Lathum, and are to be sold at his shop in Pauls Church-yard, at the signe of the Brasen Serpent,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Communion of saints --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4653:1"/>
+            <pb facs="tcp:4653:1"/>
+            <p>A SERMON OF THE COMMVNI<g ref="char:EOLhyphen"/>ON OF SAINTS; PREACHED BY EDWARD MAIE, Chaplaine to the Ho<g ref="char:EOLhyphen"/>norable Societie of LIN<g ref="char:EOLhyphen"/>COLNES Inne.</p>
+            <q>
+               <bibl>1 IOHN 4.1.</bibl>
+               <p>
+                  <hi>Probate Spiritus an sint ex Deo.</hi>
+               </p>
+               <p>Try the Spirits whether they be of God, or no.</p>
+            </q>
+            <q>
+               <bibl>Gal. 5.22.23.</bibl>
+               <p>
+                  <hi>Fructus Spiritus, charitas, gaudium pax, longanimitas, benignitas, bonitas, fides, mansuetudo, temperantia;</hi>
+               </p>
+               <p>The fruit of the Spirit is charitie, joy, peace, long-suffering, gentlenesse, goodnesse, fayth, meekenesse, temperance, &amp;c.</p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Iohn Dawson</hi> for <hi>George Lathum,</hi> and are to be sold at his shop in <hi>Pauls Church</hi>-yard, at the signe of the Brasen Serpent. 1621.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:4653:2"/>
+            <pb facs="tcp:4653:2"/>
+            <head>TO THE RIGHT REVEREND FATHER in God, by divine Prouidence, <hi>Lord Bishop of, &amp;c. Whose name is writ<g ref="char:EOLhyphen"/>ten</hi> in Heauen; and so not desi<g ref="char:EOLhyphen"/>rous to be named on Earth. <hi>Hymnum Deo dicere sempiternum.</hi>
+            </head>
+            <byline>EDVVARD MAIE.</byline>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Onsummatissime Conclamatissime Pontificum:</hi>
+               <note place="margin">Sidus. Apost: l. <hi>2.</hi> epist. <hi>2.</hi> l. <hi>7.</hi> epist. <hi>7.</hi>
+               </note> pardon my humble bold<g ref="char:EOLhyphen"/>nesse, if I speake my soule in these words of old <hi>Sidonius</hi> (as it fits me) though otherwise affraid to giue you your owne, hauing so often seene in your face the picture of S. <hi>Paulinus</hi> his humble soule: whose watch ouer himselfe, fearing to admit vndeserued prayses, refused iust commendations,<note place="margin">B. Paulinus epist. <hi>1,</hi> &amp; <hi>2.</hi> ad Seuerum.</note> as it appeares by his iust reprehension of <hi>Seuerus,</hi> who much honor'd him, <hi>Te multa dilectio vs{que} ad mendacij peccatum trahit.</hi>
+            </p>
+            <pb facs="tcp:4653:3"/>
+            <p>Well,<note place="margin">1 Cor. 15.10. <hi>Aug. epist.</hi> 32. <hi>ad Paulium.</hi>
+               </note> what you are, you are by <hi>the grace of God, &amp; lau<g ref="char:EOLhyphen"/>datus &amp; benedictur <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cuius gratia tu talis es,</hi> The Church of our blessed Lord Iesus owes him much for you, my selfe owe not the least, and come now to augment my debts, beseeching you to secure mee so farre as I neede protection for my Sermon (which I offer vnto the family for which our Lord Iesus died, as a testimoniall of my desires to liue in it, and for it: and to signifie (though <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what obscurely) vnto it, that respect and charitie which my heart exhibits you) necessita<g ref="char:EOLhyphen"/>ted to the Presse, both by the desires of honorable and learned Gentlemen of our owne Societie: (though not for it selfe to be desired) as also by some who haue with much bitternesse (hauing not yet,<note place="margin">Sufficiunt nobis sensus tantum &amp; iudicium Sanctorum Sal<g ref="char:EOLhyphen"/>uian ad eccle<g ref="char:EOLhyphen"/>siam Cath. l. <hi>4. Gal. 5.23.</hi> Basil de Spiritu Sancto. Cap. <hi>17.</hi>
+               </note> I feare tasted of the <hi>Spirit of goodnesse</hi>) cut me for it: not knowing (God illumine them) that they take from God all that honor and glory which he intends him<g ref="char:EOLhyphen"/>selfe, in our Creation, and consecration to their power, when they doe so. Such and so violent haue the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the thoughts and speeches of rigid seperation euer beene, I am loth to say any thing, for many tymes I lament them, because they are of those kind-hearts (of which the world speakes) who are most their owne foes: kinde they are: for they bestow vpon men more then they are willing to receiue, such is their bountie now adayes: yet to the prayse of Gods secret-wisedome I speake it, I haue found such my friendes, and my selfe much improued by them:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Cyrill Catech: <hi>4.</hi> Christ is still in the manger <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>&amp;</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Greg: Tha<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>turg: Ser. <hi>1.</hi> in An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ia<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> For <hi>Custodes sunt</hi> (as <hi>Petrarch</hi> sayd of enemies) they are my <hi>Gardian An<g ref="char:EOLhyphen"/>gells,</hi> God hath appoynted them to keepe me in his wayes, yea, <hi>Saluatores sunt,</hi> they are as so many Sauiours next mine onely Sauiour; yet they are their owne enemies, standing in their owne light, while they studie, and profite, and grow old in affected. Ignorance, learned mis-interpre<g ref="char:EOLhyphen"/>tation, zealous-malice, and in an holy contempt of all sa<g ref="char:EOLhyphen"/>cred and spirituall thinges, as sacred <hi>deriuation of the holy-Ghost;</hi> sacred <hi>imposition of handes,</hi> sacred <hi>suc<g ref="char:EOLhyphen"/>cession of Bishops and Presbyters;</hi> sacred <hi>orders;</hi> sacred <hi>offices;</hi> sacred <hi>ceremonies;</hi> the sacred <hi>patrimo<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:4653:3"/> of the Crucified;</hi> the <hi>necessitie of</hi> sacred <hi>repen<g ref="char:EOLhyphen"/>tance;</hi> th' <hi>Authoritie of</hi> the sacred <hi>Church:</hi> Yea, the sacred <hi>Scepter of Christ himselfe,</hi>
+               <note place="margin">Animalis homo non percipit quae sunt Dei.</note> and (for which let the world expect the heauie hand of Gods anger) <hi>th'efficacie, necessitie, the life and fruits, the reuerence, and ho<g ref="char:EOLhyphen"/>nour of</hi> sacred <hi>Sacraments</hi> themselues, and of all those <hi>holy-reall Donations</hi> (though spirituall) which Christ Iesus bequeath'd vnto his Church: O Lord <hi>God of pati<g ref="char:EOLhyphen"/>ence, and long-suffring,</hi> what holy thing haue not their hearts prophaned, their tongues blasphem'de, their handes polluted and destroy'de? And yet, as if they did magni<g ref="char:EOLhyphen"/>fie our Ministrie,<note place="margin">2 Tim. 3.7.</note>
+               <hi>Coäceruant sibi Magistros ad sua desideria prurientes auribus. Coäceruant</hi> wee know their store now adayes when one or two of their owne, are <hi>nullius numeri:</hi> and <hi>sibi Magistros,</hi> I correct my selfe, Saint <hi>Paul</hi> surely spake not of these tymes, for now we are made slaues: <hi>ad desideria sua,</hi> as their seuerall fancies lead them, not guided by the minde of <hi>Iesus Christ,</hi> nor his Church; <hi>prurientes auribus, Eares,</hi> there is the seate of their affections, not well deuoted soules; and what is th'affection it selfe but <hi>Itch?</hi> A corrupted Liuer is the cause, and if Episcopall Authoritie be not the cure, the sound Doctrine of our <hi>deare Redeemer</hi> will proue loathsome, and none but scrubbers in request.</p>
+            <p>And very fitly doth he Metaphor this petulant humour which infects most Churches, <hi>Itch,</hi> for hee who is taynted with it cannot bee quiet for it; for his handes, and tongue, and eares, and all his parts, and passions must be doing: First, out of his pure deuotion,<note place="margin">Qui abhomina<g ref="char:EOLhyphen"/>ris Idôla Sacri<g ref="char:EOLhyphen"/>legium facis? Rom. <hi>2.22.</hi>
+               </note> hee cannot holde his fingers from committing Sacrilege; no, nor bridle his tongue, for that is nothing else but a bitter inuectiue, and refutation of an innocent Ornament or two, and that by Scripture, (for hee speakes nothing else, and he doth nothing else but speake) And lastly: when hee heares how well the last are reported of, hee will bee nothing but a hearer, to gaine the name of <hi>iust</hi> or <hi>honest</hi> with men, though hee loose it with God,
+<pb facs="tcp:4653:4"/> for hee runnes vp and downe to heare, to this end to heare; and his eares <hi>Itch</hi> to heare Schismaticall Doctrine, till he may heare himselfe spoken of for an honest hearer; and till the <hi>God of peace and vnitie</hi> will not heare his pray<g ref="char:EOLhyphen"/>ers. And further (with pittie and griefe I speake it) not doubting but sighes of fire haue ascended vp to God, from the Altar of your charitable heart for these men) I had euer thought that zeale in Prayer, zeale in praysing God,<note place="margin">Fructus spiritus charitas gaudi<g ref="char:EOLhyphen"/>um, pax, &amp;c. Gal. <hi>5.22.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Mat. 3.11.</hi>
+               </note> zeale for Gods glory, zealous charitie (the first of the Fruites of the Spirit of Iesus) had beene the true zeale, and <hi>fire with which Iesus</hi> doth <hi>baptize</hi> his Saints, when <hi>he dips them in the holy Ghost,</hi> and not an <hi>itching</hi> feruor which infects the Church; yet I see these humors (sound Religion that they make) make men accounted the onely zealous ones, and all are Antichristian (how Ortho<g ref="char:EOLhyphen"/>dox soeuer) all prophane (how holy soeuer) who doe not <hi>Itch.</hi>
+            </p>
+            <p>Good Lord Iesu looke vpon thy distracted Church, ser<g ref="char:EOLhyphen"/>uing thy selfe of Pastors after thine owne Spirit, and not of popular affectation; and of people who may humblie learne to liue after thy sauing example, and not subtilely to dispute away their soules. Now then (Reuerend Father) whatsoeuer the spirit and humour of some men bee, as my thoughts haue beene as in the sight of our Lord Iesus Christ, concerning this Sermon, onely for the <hi>gathering of the Saints,</hi> proportionably to my poore skill <hi>into one Spi<g ref="char:EOLhyphen"/>rit,</hi> (for which I looke for much ill-will from some, for no re<g ref="char:EOLhyphen"/>ward, but from God alone) yet shall it much refresh mee if you accept it: and I shall be defended against all Spirits: and I shall be incouraged to persist <hi>stedfast and immoue<g ref="char:EOLhyphen"/>able in the worke of the Lord</hi> (though it fall out that I be made eyther <hi>pro corpore mystico,</hi>
+               <note place="margin">1 Cor. 15. <hi>vlt.</hi>
+               </note>
+               <note place="margin">Paulinus Epist <hi>28.</hi> ad Victri<g ref="char:EOLhyphen"/>cium. Zeno: Veronens: Ser. de Sancto Arcadio. <hi>Acts 2.</hi>
+               </note> or <hi>pro capite ecclesiastico, Martyr vivus</hi> with S. <hi>Victricius,</hi> or see my selfe <hi>vivum cadaver,</hi> as did S. <hi>Arcadius.</hi>) But howsoe<g ref="char:EOLhyphen"/>uer, I shall haue company enough, for all our Blessed Lordes Apostles were <hi>beleeued by some, derided by o<g ref="char:EOLhyphen"/>thers,</hi>
+               <pb facs="tcp:4653:4"/> and I shall rest with honor enough, <hi>that the seruant be as his Lord.</hi>
+            </p>
+            <p>
+               <hi>Alma Trinitas &amp; vna Diuinitas paternitatem ve<g ref="char:EOLhyphen"/>stram,</hi>
+               <note place="margin">S: Bonifacius Anglus Archi: epist. Mogunt. Epist. <hi>9.</hi> ad Huetbert.</note>
+               <hi>&amp; hic Sanctis virtutibus proficientem ac valen<g ref="char:EOLhyphen"/>tem augeat, &amp; custodiat; &amp; in futurâ be<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>dine, in<g ref="char:EOLhyphen"/>ter splendida Angelorum Agmina gaudentum, remu<g ref="char:EOLhyphen"/>nerando glorificet.</hi> Now to our Lord Iesus Christ be all glory, for infinite eternities.</p>
+            <closer>
+               <signed>Your Lordships most humble seruant, in the seruice of our Lord.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:4653:5"/>
+            <p>
+               <hi>Good Reader for as much as concernes the body of the Sermon, vnderstand this, that in some places since it was printed, I finde my meaning much obscured for thy clearer vnderstanding: And many ouersights and omissions haue also not a little defaced it, which I beseech thee pardon: I will make a mends here for some.</hi>
+            </p>
+            <p>
+               <list>
+                  <item>
+                     <hi>Page 1. line 1.</hi> this <hi>for</hi> the.</item>
+                  <item>
+                     <hi>Page 23.</hi> Iouinianus <hi>for</hi> Iouinian.</item>
+                  <item>Pause <hi>for</hi> pauses.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Marginall ouersights,</hi>
+               <list>
+                  <item>
+                     <hi>Page 2.</hi> qua <hi>for</hi> quia.</item>
+                  <item>
+                     <hi>Page 5.</hi> eum <hi>for</hi> est.</item>
+                  <item>
+                     <hi>Pag. 22.</hi> Talinus <hi>for</hi> Tatius.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Marginall omissions,</hi>
+               <list>
+                  <item>
+                     <hi>Page 7.</hi> Chrysost: l. <hi>3.</hi> &amp; <hi>6.</hi> de Sacerdotio &amp; hom. <hi>51.</hi> in Mat:</item>
+                  <item>
+                     <hi>Page 9.</hi> Laicus omnis fine Sacerdote perfici<g ref="char:EOLhyphen"/>eus aliquid frustra facit Clemens, Rom. Apost. Constitut: l. <hi>2.</hi> c. <hi>31.</hi>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div type="approbation">
+            <p>
+               <note place="margin">Saluian Solo<g ref="char:EOLhyphen"/>rio Episcopo.</note>SVper est vt ores Dominum Deum nostrum, &amp; orando id impetres, vt libellus, ad Ecclesiae Christi honorem, con<g ref="char:EOLhyphen"/>scriptus tantum apud Deum. Scriptori suo prosit, quantum prodesse eum, ipse, omnibus cupit: Nec iniustum, puto, est desiderium, quo tantum sibi aliquis praestari postulat pro salu<g ref="char:EOLhyphen"/>te, quantum ipse optat cunctis pro charitate.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:4653:5"/>
+            <head>A SERMON OF THE COMMVNI<g ref="char:EOLhyphen"/>ON OF SAINTS.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 IOHN 1.3.</hi>
+                  </bibl>
+                  <p>And truely our Communionis with the Father, and his Sonne Iesus Christ.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Communion of Saints is as auncient as Eternitie it selfe, <hi>Ie<g ref="char:EOLhyphen"/>hovah possessed Wisedome in the be<g ref="char:EOLhyphen"/>ginning of his way,</hi> Prouerbes 8. 22. and verse 30. <hi>Shee was from euerlasting by him, one brought vp with him, daily his delight reioycing alwayes before him.</hi>
+            </p>
+            <p>The three Saints, <hi>Sanctus, Sanctus, Sanctus,</hi>
+               <note place="margin">Esa. 6.</note>
+               <hi>Dominus, Deus, Omnipotens,</hi> the holy Father,<note place="margin">Apocal. 4.</note> the holy Sonne, and the holy Spirit of both did com<g ref="char:EOLhyphen"/>municate in incōmunicable glory, in inaccessible light, in their most blessed, and incomprehensi<g ref="char:EOLhyphen"/>ble Ioy, in the vnitie of their Deitie, before hea<g ref="char:EOLhyphen"/>uen or earth were made: for, before the heauens were, they dwelt in an inconceiueable inhabita<g ref="char:EOLhyphen"/>tion
+<pb n="2" facs="tcp:4653:6"/> one of another, which the Greeke Church termed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Damas: l. <hi>3.</hi> c. <hi>7.</hi> Orthodox. fid.</note> and the Latines translated <hi>cir<g ref="char:EOLhyphen"/>cum incessio,</hi> of which S. <hi>Iohn</hi> speakes in his foure<g ref="char:EOLhyphen"/>teenth Chapter:<note place="margin">Hil: Pictau: l. <hi>4.</hi> de Triu: Deus in Deo est: &amp; in<g ref="char:EOLhyphen"/>quo est Deus Deus est, qua Deus ex Deo est.</note>
+               <hi>I in the Father, and the Father in me;</hi> for the Father is in the Sonne, and the holy Ghost: the Sonne is in the Father and the holy Ghost: the holy Ghost is in the Father and the Sonne: which mysterious Communion S. <hi>Augu<g ref="char:EOLhyphen"/>stine</hi> iudiciously,<note place="margin">
+                  <hi>Aug. l.</hi> 6. <hi>de Trin: c. vlt.</hi> And from this inhabitation it comes that our prayers are ac<g ref="char:EOLhyphen"/>cepted to what person soeuer of the Trinitie they are direc<g ref="char:EOLhyphen"/>ted: and that prayer to one is prayer to e<g ref="char:EOLhyphen"/>uery one, <hi>Zeno. Veronens: ser. de Psal.</hi> 129.</note> and like himselfe obseru'd;
+<q>
+                  <p>Singula in singulis</p>
+                  <p>Et omnia in singulis</p>
+                  <p>Et singula in ōnibus</p>
+                  <p>Et omnia in omnibus</p>
+                  <p>Et vnum omnia</p>
+               </q> &amp;
+<q>
+                  <p>Euery one in euery one.</p>
+                  <p>All in euery one.</p>
+                  <p>Euery one in all.</p>
+                  <p>All in all.</p>
+                  <p>One all, yea, and all one.</p>
+               </q>
+            </p>
+            <p>An vnspeakable Communion or common v<g ref="char:EOLhyphen"/>nion (you see) they had in Nature, in glory, in blessednesse.</p>
+            <p>But such was their goodnesse (common to them all) that they created Angells and Man, the <hi>Angells hee made Spirits,</hi>
+               <note place="margin">Psal. 104.4.</note>
+               <hi>and a flaming fire; Spi<g ref="char:EOLhyphen"/>rits</hi> readily to serue him; <hi>a flaming fire,</hi> ardently to loue him:<note place="margin">Iob 1.6. Psal. 93.7. Heb. 1.6.</note> he honored them with the name of <hi>Sonnes,</hi> yea, <hi>Gods,</hi> that so they might haue the nearest Communion with him, and alwayes be<g ref="char:EOLhyphen"/>hold the face of our Father which is in heauen.<note place="margin">Mat. 18.10.</note>
+            </p>
+            <p>And for man: the God of glory made him <hi>the Glorie of God,</hi>
+               <note place="margin">1 Cor. 11.7. Heb. 1.14. <hi>Honorandi ta<g ref="char:EOLhyphen"/>men sunt amici tui Domine.</hi>
+               </note> and made him after the Image of his Image, after the Image of his eternall Sonne, yea, and made the Angells themselues to serue Man, (I take it therefore to bee a sinne against
+<pb n="3" facs="tcp:4653:6"/> the glory of Mans creation to serue the Angells) <hi>thou hast crowned him with glory and worship</hi> (sayth <hi>Dauid</hi> vnto his Lord.<note place="margin">Psal. 8.5.</note>) And to this end did God set such a Crowne of Glory and worship vpon mans head in the day of his creation, that hee might be fitted for fellowship with his Maker. Then did the King of Saints put him into Para<g ref="char:EOLhyphen"/>dise, and drew couenants,<note place="margin">Apo. 15.3.</note> and walked with him in the Garden, but how? whether by some crea<g ref="char:EOLhyphen"/>ted deputie, testifying his presence in the forme of man (as is commonly conceiued) or whether by any more immediate communication, onely the soule of <hi>Adam</hi> can determine.</p>
+            <p>But howsoeuer: God so visited him, that hee for his part intended to haue Man his eternall companion, which <hi>Iob</hi> considering, sayd;<note place="margin">Iob 9.17.</note>
+               <hi>What is man that thou shouldest magnifie him? and that thou shouldest set thy heart vpon him, and that thou shoul<g ref="char:EOLhyphen"/>dest visit him euery morning?</hi>
+            </p>
+            <p>But some of those Angells sinned at first by Pride, (which both then and euer since hath bin the mother of all diuision, and the deadly bane of the Saints Communion) for that eyther they refused to keepe man, scorning to bee <hi>ministring Spirits;</hi> or, because they opposed the Adoration of the <hi>Man-Christ;</hi> (if it were deliuered them from the instant of their Creation) <hi>Let all the Angells of God worship him:</hi> or, lastly, because they grudged,<note place="margin">Heb. 1.6.</note> hearing that the nature of man which CHRIST should assume and associate with his Diuinitie should be aboue them in glory, and so conse<g ref="char:EOLhyphen"/>quently the bodie mysticall to be where the head
+<pb n="4" facs="tcp:4653:7"/> triumphant is, aboue all Angells.</p>
+            <p>They sinning (I say) by Pride, and enuying man when they had sinned, that he should ascend vnto their glory which they had lost; especially, transcend them in glory, presently set vpon Man, and drew him into their sin and seperation from God, here was now the first schisme, (the Deuill the first Schismatique) and the first interruption of the <hi>Communion of Saints.</hi>
+            </p>
+            <p>But yet so great a louer was our gracious Crea<g ref="char:EOLhyphen"/>tor of this Communion begunne with Man, that <hi>he spared not the Angells which sinned,</hi>
+               <note place="margin">
+                  <hi>2 Pet. 2.4.</hi> Goffrid: Vindo<g ref="char:EOLhyphen"/>cinensis Ser. <hi>1.</hi> in nat: Dom.</note> but because Man fell away by suggestion, and not of himselfe like the Angell who sinned desperately, (if not the sinne against the holy Ghost) And be<g ref="char:EOLhyphen"/>cause God saw millions of millions which might be Saints in one man, whereas Angells propagate not; hauing also innumerable Myriads of Angels besides, and but one onely man, and all men in him: But indeed because God was God, (for he could haue raysed Saints <hi>of stones</hi>) he look'd vp<g ref="char:EOLhyphen"/>on man with the eye of pittie,<note place="margin">Mat. 3.9.</note> and in the multi<g ref="char:EOLhyphen"/>tude of his sauing mercies, sayd of him (as it is in <hi>Ieremie) Shall he fall,</hi>
+               <note place="margin">Ier. 8.4.</note>
+               <hi>and shall he not rise? shall hee turne away, and shall he not returne?</hi>
+            </p>
+            <p>Then did God passe the promise of his eternall decree, that <hi>medius</hi> should be <hi>medians,</hi> that the se<g ref="char:EOLhyphen"/>cond Saint in Trinitie should assume our flesh by personall vnion into the fellowship of his Diuini<g ref="char:EOLhyphen"/>tie, and so be againe <hi>Imanuel, God with vs,</hi> that we againe might haue communion with God, and reattayne vnto <hi>the fellowship of the Saints in light.</hi>
+               <note place="margin">Coloss. 1.12.</note>
+            </p>
+            <pb n="5" facs="tcp:4653:7"/>
+            <p>So that whereas God for the first Communion at Mans creation imprinted on him the Image of his Sonne: Now for the reconciliation God im<g ref="char:EOLhyphen"/>printed on his Sonne the Image of Man,<note place="margin">
+                  <hi>Phil. 2 7.</hi> Oportuerat me<g ref="char:EOLhyphen"/>diatorem Dei et hominum per suam ad vtros{que} domesticitatem, in amicitiam &amp; concordiam v<g ref="char:EOLhyphen"/>tros{que} reduce<g ref="char:EOLhyphen"/>re, &amp; facere vt Deus assumeret hominem et ho<g ref="char:EOLhyphen"/>mo se dederit Deo Quâ enim ratione filiorū adoptionis eius participes esse possemus nisi per filium eam quae eum ad ipsū re<g ref="char:EOLhyphen"/>cipissemus abeo communionem, nisi verbū eius communicasset nobis, caro fac<g ref="char:EOLhyphen"/>tum. <hi>Irenaeus</hi> l. <hi>3.</hi> c. <hi>20.</hi> ad<g ref="char:EOLhyphen"/>uers. haeres. <hi>Psal. 78.60.</hi>
+               </note>
+               <hi>He was found in shape as a man:</hi> God was vnited hyposta<g ref="char:EOLhyphen"/>tically to man, to revnite man to God.</p>
+            <p>And thus farre haue I prefac'd vnto youth An<g ref="char:EOLhyphen"/>tiquitie, and dignitie of the Saints Communion, both for that the blessed Trinity began it in th<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> eternall vnitie: and inlarg'd it in, the creation of Man and Angells; and renu'd it by the incarnati<g ref="char:EOLhyphen"/>on of the Word the second Saint.</p>
+            <p>And to let passe that Communion, which the old Church vntill the dayes of Christ, had both among themselues, and with their God; a taste of which I could giue you by <hi>Enoch</hi> his walking with God, and <hi>Abrams</hi> frequent conferences with the most high God: and <hi>Moses</hi> his visions, and Mount communications; and by all those reue<g ref="char:EOLhyphen"/>lations, and oblations, and prayers, and prayses, and holy passages, but aboue all by that taberna<g ref="char:EOLhyphen"/>cle in which God dwelt among them; to prater<g ref="char:EOLhyphen"/>mit (I say) all that typicall Communion of the Saints of old.</p>
+            <p>It is faithfully to be obserued, how that at the incarnation of Christ, and actuall renouation of this Communion, S. <hi>Iohn</hi> beginnes this Epistle;<note place="margin">Contextus.</note>
+               <hi>That which was from the beginning, which wee haue heard, which we haue seene without eyes, which wee haue looked vpon, and our hands haue handled of the Word of life, that eternall life declare wee vnto you,</hi> and why? to what end do we declare it vnto you?
+<pb n="6" facs="tcp:4653:8"/>
+               <hi>that you may haue fellowship with vs:</hi> that is, we shew you Christ Iesus his vnion with our nature, whom we haue seene in the flesh and had Communion with, that you may know and beleeue, that God hath bound himselfe vnto man by an <hi>Assumpsit</hi> of Man into God; and the reason why hee hath so oblig'd himselfe, and was so vnited is this; that you might haue Communion with the Apo<g ref="char:EOLhyphen"/>stles, and be of the Apostolicall Church: But blessed S. <hi>Iohn,</hi> what is your Communion then who are Apostles? <hi>Truely our Communion is with the Father, and his Sonne Iesus Christ.</hi>
+            </p>
+            <p>You see then (to speake but a word of the de<g ref="char:EOLhyphen"/>pendance) that Societie with the holy Apostles is Societie with the heauenly Lord, and all they who come vnto Christ Iesus, now since his com<g ref="char:EOLhyphen"/>ming, must come by the Apostles, and vnto them, and by, &amp; vnto them who succeed them, or they shall neuer come vnto the sight of essentiall hap<g ref="char:EOLhyphen"/>pinesse; for, these are the beginners &amp; continuers of the Saints Communion.</p>
+            <p>God who is the Father of Spirits; and Iesus Christ who is the Sauiour of Soules, hath not onely giuen authoritie and spirituall power ouer his mysticall body which is the Communion of soules, (for what thinke you of those voyces from his owne lips, <hi>feed my sheepe: preach: baptize: whose sinnes yee remit: whose sinnes yee retayne?</hi>) But hath also giuen a power ouer his owne natu<g ref="char:EOLhyphen"/>rall bodie which is himselfe vnto them, for to them onely was it sayd: <hi>Doe this in remembrance of me;</hi> by which wordes, they haue Commission to
+<pb n="7" facs="tcp:4653:8"/> dispose of that very bodie which was giuen for the life of the World, &amp; of that invaluable bloud which was shed to redeeme sinfull soules: for which causes the Bishops and Presbyters haue (as Antiquitie can tell) beene honoured with an ho<g ref="char:EOLhyphen"/>nour which no King,<note place="margin">Isiod: Pelufiota: l. <hi>2.</hi> Epist: <hi>5.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> no Angell had euer giuen him; they are the <hi>Makers</hi> of Christ his body, they doe a worke which none but the holy Ghost be<g ref="char:EOLhyphen"/>sides them euer did, they make vp the mysticall body of Christ by the holy Ghost which made his bodie of Virgin-substance,<note place="margin">Ioh. 20.22.</note> which Iesus gaue them by Insufflation: <hi>Insufflauit ijs &amp; dixit acci<g ref="char:EOLhyphen"/>pite Spiritum Sanctum, &amp;c.</hi>
+               <note place="margin">Act. 8.17.18. 1 Tim. 4 14. 2 Tim. 1.16.</note> Which holy Ghost is now by imposition of hands successiuely receiued from Apostolicall men, that still the body of Christ may be made vnto the end of the World; for, this power was not giuen the Apostles <hi>ad tempus,</hi> but <hi>ad consumationem,</hi>
+               <note place="margin">Mat. 28.20.</note> as the Apostles themselues were giuen, in their heires, <hi>ecce ego vo<g ref="char:EOLhyphen"/>biscum:</hi> for though they be with him, yet hee is with them in their successors; <hi>&amp; ecce</hi> behold he is with them on earth, though they be in heauen with him: and as Christ Iesus himselfe is bodily in heauen, but by his spirit still on earth, and till the end;<note place="margin">Num cessauit gratia in sancta ecclesiâ <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Abfit: Epiphanius hares: <hi>48.</hi>
+               </note> so are his Apostles for themselues in heauen: in Bishops and Presbyters on earth vn<g ref="char:EOLhyphen"/>till the second, and last <hi>consummatum:</hi> and do still by the holy Ghost make the mysticall bodie (I am sure) let who list dispute of his naturall.</p>
+            <p>Wherefore Beloued; if they then make not you members of Christ, how can you be bone of his bone, and flesh of his flesh? If you bee not be<g ref="char:EOLhyphen"/>gotten
+<pb n="8" facs="tcp:4653:9"/> by them, how can you be children of the liuing God? Nay, how can you haue any thing to doe with God, if you haue not communion with vs? I know presumption vpon wealth, and di<g ref="char:EOLhyphen"/>stempers of opinion, and wit, haue left the world little respect to vs; no care of our Communion, lesse loue of our persons: I am sensible of con<g ref="char:EOLhyphen"/>tempt and persecution, and Greatnes complaines shee is disgraced, if perchance once a yeare she be seene in company of a poore Priest, when as their Greatnesse hath made vs poore; yea, now the world takes it selfe little beholding vnto the Fa<g ref="char:EOLhyphen"/>ther of <hi>Lights</hi> for his <hi>Starres;</hi>
+               <note place="margin">
+                  <p>Ordo &amp; plebs <hi>in</hi> Tertullia <hi>his time were as</hi> Termini incom<g ref="char:EOLhyphen"/>possibiles, l. de exhort. ad Casti<g ref="char:EOLhyphen"/>tat.</p>
+                  <p>
+                     <hi>And in his li.</hi> deprescript, <hi>he complained, that</hi> Laicis Sa<g ref="char:EOLhyphen"/>cerdotalia mu<g ref="char:EOLhyphen"/>nera, &amp;c. in Castris haereti<g ref="char:EOLhyphen"/>corum.</p>
+                  <p>Leo mag. epi. <hi>62.</hi> ad maxinū An<g ref="char:EOLhyphen"/>tioch: epis: Prae<g ref="char:EOLhyphen"/>ter eos qui sunt Domini Sacer<g ref="char:EOLhyphen"/>dotes, nullus sibi ius docendi, &amp; praedicandi audeat vindicare siue fit ille Monachus, siue Laicus qui alicuius scientiae, no<g ref="char:EOLhyphen"/>mine gloriatur; quia etsi optandum est, ve omnes ecclesiafilij, quae recta et sanasunt sapi<g ref="char:EOLhyphen"/>ant; non tamen permittendum est, vt quisquam extra sacerdotalem or din<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>m Constitutur gradum sibi predicatoris assumat cum in Ecclesiâ Dei omnia ordinata esse conueniat, vt in vno christi corpore et excellentiorae membra suum officium impleant et inferiora superiori<g ref="char:EOLhyphen"/>bus non resultent.</p>
+               </note> they doubt not but to see the light of life well enough without them, but if this be possible (I say if ordinarily possible, and I know vpon what groundes I speake) let vs neuer haue that <hi>Faciall</hi> Vision (if it be not offen<g ref="char:EOLhyphen"/>siue to vse the word of Pope <hi>Iohn</hi> 22) of the God of Glory.</p>
+            <p>Then is it a vsurpation of transcendent pre<g ref="char:EOLhyphen"/>sumption, not onely to lay hand vpon our Bene<g ref="char:EOLhyphen"/>fices, but our holy Offices beside, as if we were but Church-men for their ease, as some of them haue Chappells: as if there were no other vse of the A<g ref="char:EOLhyphen"/>postles, but to saue them a labour: what else meane those Hereticall soundes so often in our cares, Euery man is a Priest to himselfe: blasphe<g ref="char:EOLhyphen"/>ming
+<pb n="9" facs="tcp:4653:9"/> the Sauiour of the worlds institution,<note place="margin">Goffrid: vindo<g ref="char:EOLhyphen"/>cinensis opus: <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and in effect, calling the cognizance of the Apostles, the couzenage of the people:<note place="margin">
+                  <p>Super quem vi<g ref="char:EOLhyphen"/>deris spiritum ille est qui baptiz at in spi<g ref="char:EOLhyphen"/>ritu sancto.</p>
+                  <p>Iohn <hi>1.33. And it hath bin euer held stiffely, that</hi> Bonus laicus non potest facere quod malus sa<g ref="char:EOLhyphen"/>cerdos.</p>
+                  <p>
+                     <hi>I speake not of Gods extraor<g ref="char:EOLhyphen"/>dinary opera<g ref="char:EOLhyphen"/>tion.</hi>
+                  </p>
+                  <p>Obedite praposi<g ref="char:EOLhyphen"/>tis vestris qui vigilant pro ammabus.</p>
+                  <p>
+                     <hi>Heb. 13.17.</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </note> while they say that Lay-men may preach, baptise, consecrate, distri<g ref="char:EOLhyphen"/>bute the sacred Mysteries: superfluous generati<g ref="char:EOLhyphen"/>on that wee are? And when they haue sayd and done their desire, what haue they done?</p>
+            <p>
+               <hi>Laicks</hi> preaching can conuert no more then a good Morall sentence out of <hi>Seneca:</hi> their Sacra<g ref="char:EOLhyphen"/>ments (as they proceed from them) conferre no more, then the Vine and Fountaine haue affoor<g ref="char:EOLhyphen"/>ded: for not hauing the spirit by imposition, and Apostolicall succession; they doe all without Gods spirit, Gods ordinance, Gods promise, Gods blessing; and so will be the successe: Then must it be assented vnto, <hi>that you must haue communion with vs,</hi> or else not with the Father and his Sonne Iesus Christ. Gods will is that his ordinance bee obeyed; and Gods will is that his sonnes shall be beholding to his seruants for their glory. Thou owest me thy very selfe (sayth S. <hi>Paul</hi> to <hi>Philemon</hi>) yea, euen Christ himselfe that Great Shepheard, and Bishop of soules, after his humiliation began, obeyed his owne institution and honored it, nei<g ref="char:EOLhyphen"/>ther did he, neither could hee himselfe haue as<g ref="char:EOLhyphen"/>cended vnto his kingdome, but by the Priest<g ref="char:EOLhyphen"/>hood.</p>
+            <p>And thus much I haue declared vnto you, con<g ref="char:EOLhyphen"/>cerning the dependance of the Text, and the be<g ref="char:EOLhyphen"/>ginners and continuers of this Communion, that you may haue communion with vs, <hi>And truly our communion is with the Father, and his Sonne Iesus
+<pb n="10" facs="tcp:4653:10"/> Christ,</hi> all is but one Communion if with vs, with him; not with him, if not with vs.</p>
+            <p>To part the Text: the Communion of Saints admitts a double consideration, in regard of the Saints themselues, and both are in the Text.</p>
+            <p n="1">1. One is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, our Communion specified and poynted out with a double Article, that communion, that ours: take notice of it.</p>
+            <p n="2">2. The other is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c.</p>
+            <p n="1">1. The first is, <hi>Communio cum corpore:</hi> our com<g ref="char:EOLhyphen"/>munion with the Apostles, and their Successors, and all their conuerts.</p>
+            <p n="2">2. The other is, <hi>Communio cum capite,</hi> with God the Father, &amp;c.</p>
+            <p>The head and the bodie are one Christ, and our Communion amongst our selues is our commu<g ref="char:EOLhyphen"/>on with the Father, &amp;c. Yet for the better vnder<g ref="char:EOLhyphen"/>standing of this admirable and diuine communi<g ref="char:EOLhyphen"/>on, (the pith and sweet, and creame of all Diui<g ref="char:EOLhyphen"/>nitie, then which your soules neuer tasted any thing more wholesome and delicious) I say for the better vnderstanding of the whole communi<g ref="char:EOLhyphen"/>on, and for the better conioyning of euery Saint and member, and all the Saints together with God, we must thus for a time deuide it: And also deuide them (the Saints themselues) into these three rankes and orders.</p>
+            <p n="1">1. Some are Saints <hi>Per Substantialem sanctitatem,</hi> and also <hi>per gubernationem</hi> and these are the three persons of the blessed Trinitie, who are <hi>Rex san<g ref="char:EOLhyphen"/>ctorum,</hi> Apocal. 15.3. God is the beginner and gouernour of their communion.</p>
+            <p n="2">
+               <pb n="11" facs="tcp:4653:10"/>2. Some are Saints <hi>per creationem,</hi> as those An<g ref="char:EOLhyphen"/>gells which were created holy and so perseuer'd.</p>
+            <p n="3">3. Some are Saints, <hi>Per vocationem,</hi> and these are men <hi>vocati sancti,</hi> Rom. 1.7.</p>
+            <p>The second order is of the bodie of our Com<g ref="char:EOLhyphen"/>munion, because they <hi>minister for our sakes.</hi>
+               <note place="margin">Heb. 1.</note>
+            </p>
+            <p>I shall speake first of our Communion amongst our selues, and then of our communion with God the Father, &amp;c.</p>
+            <p>And in our communion, first of our communion with men, then of our communion with Angells.</p>
+            <p>In our communion of men with men, there are three branches.</p>
+            <p n="1">1. The first is, <hi>Separatorum cum viuis,</hi> the com<g ref="char:EOLhyphen"/>munion of men seperated from cōmunion with their bodies by death, with the liuing: and that is the departed Saints communion with vs, and ours with them.</p>
+            <p n="2">2. The second is, <hi>Seperatorum cum seperatis,</hi> the Communion which the seperated soules of the Iust haue one with another in heauen.</p>
+            <p n="3">3. The third is, <hi>Viuorum cum viuis,</hi> the Com<g ref="char:EOLhyphen"/>munion which the liuing haue with the liuing, and this is our communion amongst vs who yet liue on earth.</p>
+            <p>Of all these shall I speake vnto you (God assi<g ref="char:EOLhyphen"/>sting me, though not now) beginning with Saints by Vocation, with that communion which is a<g ref="char:EOLhyphen"/>mongst our selues here on earth, and so by degrees ascending, till wee come vnto <hi>innumerable compa<g ref="char:EOLhyphen"/>nies of Angells,</hi> to the <hi>generall assembly and Church of the first borne, and to God the Iudge of all, with the spi<g ref="char:EOLhyphen"/>rits
+<pb n="12" facs="tcp:4653:11"/> of iust men made perfect, and to Iesus the Media<g ref="char:EOLhyphen"/>tor of the new Couenant,</hi> Heb. 12. And to that bles<g ref="char:EOLhyphen"/>sed Communion of all, of God, and men, and An<g ref="char:EOLhyphen"/>gells, altogether in vnchangeable felicitie, and e<g ref="char:EOLhyphen"/>ternall glory.</p>
+            <p>To beginne then with that communion which is amongst our selues here on earth, of necessitie these three questions fall first into considerati<g ref="char:EOLhyphen"/>on.</p>
+            <p n="1">1. Who are the Saints of this Communion, and who are not?</p>
+            <p n="2">2. What that Communion of Saints is, which is both to be beleeued, and practiz'd?</p>
+            <p n="3">3. What those graces and duties and blessings are, in which those Saints doe, and ought to com<g ref="char:EOLhyphen"/>municate?</p>
+            <p>And here we shall see how farre we may, and must communicate with the vniuersall Church? How farre with the Church of <hi>Rome?</hi> How farre with particular Churches? And how farre with particular men?</p>
+            <p n="1">
+               <note place="margin">Aug. in Psal. <hi>30.</hi> Conc. <hi>2.</hi> in l. de vnitat: ecclesiae. cap. <hi>4.</hi> Isidor. Pelus. Epist. <hi>246.</hi> l. <hi>2.</hi>
+               </note>1. For the first, it is easie to answere, that all they are Saints who are members of Christ: now <hi>totus Christus est caput &amp; corpus,</hi> (as S. <hi>Augustine</hi> many times remembers vs) the head is the onely begotten Sonne of God, the bodie is the holy Church, a true Saint must haue communion with both, or not with whole Christ. For to what end is it to be in the true Church, and to haue a false faith concerning Iesus Christ? and what will it profit to beleeue aright concerning Christ, and not to be in the true Church? That glorious Mar<g ref="char:EOLhyphen"/>tyr
+<pb n="13" facs="tcp:4653:11"/> S. <hi>Cyprian,</hi>
+               <note place="margin">Cyprian l. <hi>2.</hi> Epist. <hi>8.</hi>
+               </note> &amp; the Fathers euer <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them<g ref="char:EOLhyphen"/>selues to this refuge, against <hi>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>onatus,</hi> and <hi>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ga<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us,</hi> and <hi>Donatus,</hi> and that whole rabble of heretiques and schismatiques which hath alwayes pester'd the Church: <hi>Non potest esse cum Christo, qui cum sponsâ Christi, at{que} in eius ecclesiâ non est:</hi> And doth not S. <hi>Augustine</hi> speake home?<note place="margin">Aug: Epist. <hi>48.</hi>
+               </note>
+               <hi>Nobiscum estis in baptismo, in Symbolo, in cateris dominicis Sacramen<g ref="char:EOLhyphen"/>tis: in spiritu autem vnitatis, invincalo pacis, in ipsô deni{que} Catholicâ ecclesiâ nobiscum non est is.</hi> Who<g ref="char:EOLhyphen"/>soeuer then would proue a right Saint, must ioine himselfe to the great Mysterie of <hi>two in one flesh,</hi>
+               <note place="margin">Ephes. 5.</note> Christ and his Church.</p>
+            <p>But because wee are now about Communion with the bodie, let vs try onely who are Saints of the bodie and this experiment is soone made: Who are in the Catholique Church, for the Ca<g ref="char:EOLhyphen"/>tholique Church, and the communion of Saints are but one Article of faith; all then who are in the first are of the second: now who are in the first?</p>
+            <p>That Miracle of vnderstanding (S. <hi>Augustine</hi> I meane) giues one marke for all:<note place="margin">Aug. tract. <hi>32.</hi> in Iohn.</note> they are in the holy Catholique Church who haue receiued the holy Ghost: &amp; they haue receiued the holy Ghost who speake all Languages (as did the Apostles at the day of <hi>Penticost</hi>) they then who speake all Languages, are Saints of our Communion, but what? Is he then no Saint, who speakes not all tongues? No, (sayth he) for how can he bee see<g ref="char:EOLhyphen"/>ing he hath not that Spirit by which they spake all tongues, who were in one place? the Church
+<pb n="14" facs="tcp:4653:12"/> spake all <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ngd ag<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s then, and it speakes all now, and how bespeak<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all hath not the ho<g ref="char:EOLhyphen"/>ly Ghosts I ow<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d can <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be a Saint? he is <hi>pr<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>sus &amp; diuisu ab vnitate membrorum quae vnitas lin<g ref="char:EOLhyphen"/>guis omnium liquitur,</hi> If therefore any bee of the Church, let him shew me this signe, what signe? Let him speake all tongues: well, but can <hi>Augu<g ref="char:EOLhyphen"/>stine</hi> himselfe shew this signe? <hi>Loquor planè.</hi> I doe euidently speake them all, <hi>Quia omnis lingua mea est,</hi> that is, <hi>Ti<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> corporis cuius membrum sum: Eccle<g ref="char:EOLhyphen"/>siast corpus Christi, in hoc corpare membrumes, cum ergo membrumes eius corporis quod loquitur omnibus linguis, crede te loqui omnibus linguis:</hi> yea, but still we seeke the Church in the Church: how know we who is a member? Well enough: <hi>Vnitas mem<g ref="char:EOLhyphen"/>brorum charitate concorda<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, et ipsa vnitat loquitur, ac<g ref="char:EOLhyphen"/>cipimas ergo Spiritum sanctum, si amamus ecclesiam, si vnitate compaginamur, si Catholico nomine &amp; fide gaicdemas, credam ac fratres quantum quis{que} amat ec<g ref="char:EOLhyphen"/>clesiam Christi,</hi>
+               <note place="margin">Not shut vp in the Synagog. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Isidor. Pelusi<g ref="char:EOLhyphen"/>ot. l. 4. Ep. 103.</note>
+               <hi>tantum habet Spiritum Sanctum.</hi>
+            </p>
+            <p>Here is the pith of all: if wee will bee of that Church which is not confined to any one coun<g ref="char:EOLhyphen"/>trey, or nation, but is Catholique, &amp; euery where, <hi>where any <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>yes, <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Language is heard,</hi> and if we loue that Church we are Saints, and within the Communion: So that he who beleeues the Ca<g ref="char:EOLhyphen"/>tholique Church, must also loue the Catholique Church; for, indeed vniuersall charitie makes thee of the vniuersall Church, and the holy spirit of loue being communicated vnto thee in that extension, as that thou louest all the members of that Church, makes thee a member of it. For e<g ref="char:EOLhyphen"/>uery
+<pb n="15" facs="tcp:4653:12"/> member of the bodie speakes his owne Lan<g ref="char:EOLhyphen"/>guage, and euery member speakes the Language of euery member, and euery member speakes the Language of the whole.</p>
+            <p n="1">1. The language of euery member is loue, and care, and preseruation, and euery member speaks this for it selfe.</p>
+            <p n="2">2. Euery member hath its particular loue,<note place="margin">Tolle inuidiam &amp; tuum est q<seg rend="sup">d</seg> habeo, tollam inuidiam et me<g ref="char:EOLhyphen"/>um est quod ha<g ref="char:EOLhyphen"/>bes, oculus solus videt in corpore sed nunquid soli sibi oculus vi<g ref="char:EOLhyphen"/>det? Et manui videt, et pedi videt, et caeteris membris videt. Aug. vbi suprae.</note> and euery member sayes the same for it also: For the eye watcheth for the head, the head's a counseler, the mouth's an orator, the hand's a Phisitian; the heart's a Diuine; the leggs are footemen; euery member is seruant to any member, euen to a gou<g ref="char:EOLhyphen"/>tie toe, to cure it, and to make it found.</p>
+            <p n="3">3. Lastly, euery member speakes the language of the whole; if the whole speake prosperitie, e<g ref="char:EOLhyphen"/>uery member speakes the same; if it speake con<g ref="char:EOLhyphen"/>tent, euery member sayes the same; if it speake for preseruation, euery member in its owne dia<g ref="char:EOLhyphen"/>lect sayes the same, if it complaine of affliction or tribulation, euery member sings the lamentations of the whole; the voyce is mourning, the eye is weeping, the heart is sighing, the hands are plea<g ref="char:EOLhyphen"/>ding, the head is hanging downe, and euery part and member is compassionate; which make the saying true, <hi>Pars totius, totum partis exhibet offici<g ref="char:EOLhyphen"/>um;</hi> And that part which doth not sympathize is dead, or cut off, and not animated with the soule.</p>
+            <p>So is it in the body mysticall of Iesus Christ (as S. <hi>Paul</hi> teacheth) <hi>as the body is one,</hi>
+               <note place="margin">1 Cor. 12.12.</note>
+               <hi>and hath many members, and all the members of that one body being
+<pb n="16" facs="tcp:4653:13"/> many are one body,</hi>
+               <note place="margin">Vess. 25.</note>
+               <hi>so also is Christ:</hi> and in the 25. v. he sayes they all say the same, being animated <hi>per eundem spiritum,</hi> God <hi>would haue no schisme in the bodie,</hi>
+               <note place="margin">In vnum spiri<g ref="char:EOLhyphen"/>tum baptizati<g ref="char:EOLunhyphen"/>sumus, in vno spiritu potati s<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note>
+               <hi>but that the members should haue the same care, one for another, and whether one member fuffer all suffer with it, if one member be honored, all the mem<g ref="char:EOLhyphen"/>bers reioyce with it; now you are the bodie of Christ, and members in particular.</hi>
+            </p>
+            <p>And (I will not say) as true as the Gospell, for it is the truth of the Gospel, as many of you as are members <hi>veritate essentiae siue formae</hi> (as the lear<g ref="char:EOLhyphen"/>ned speake) of that catholique and aecumenicall bodie of Iesus Christ: doe speake the language of euery member, and of the whole, or else you are not actuated by the Spirit of Iesus, but are dead and rotten members of his Church: you offer vp your odors duely into the <hi>viall of the Angell, which are the prayers of Saints:</hi> you make <hi>supplications and deprecations,</hi> and all humble-earnest inuocations, for the whole Church, and pray that the prayers of the whole Church, and euery member of the Church may be heard. You reioyce for the re<g ref="char:EOLhyphen"/>ioycing of the Church; you are comforted with her prosperitie, and you mourne for her desolati<g ref="char:EOLhyphen"/>ons: you lament and bewayle her woundes and gashes; the sects, and cuts which are made vpon the bodie of the Lord Iesus: (I say) you speake all her languages, or you haue not the Spirit, nei<g ref="char:EOLhyphen"/>ther are you Saints of this communion with vs. But if you doe speake all her languages, whensoe<g ref="char:EOLhyphen"/>uer you speake to God for her (though you speak but one) God heares all languages speake vnto
+<pb n="17" facs="tcp:4653:13"/> him, and when any member of that bodie inter<g ref="char:EOLhyphen"/>ceeds for her, all Languages doe sound in Gods cares in heauen for thee, because thou art a mem<g ref="char:EOLhyphen"/>ber of that vnitiue body: And if any would know how this can be, I answer, with S. <hi>Paul, per eundem spiritum,</hi> by the selfe same spirit which is whole in euery one, and the same in all, <hi>totus in toto, &amp; to<g ref="char:EOLhyphen"/>tus in qualibet parte.</hi>
+            </p>
+            <p>Alas, alas then for all them who speake but the Language of one Nation, it may be not so much, but of one Cittie; and with more restriction, but of one conuenticle, but of one chamber, one chimney, but of one man, <hi>Hareticus de se Natus,</hi>
+               <note place="margin">
+                  <hi>Optatus l.</hi> 1. <hi>pag.</hi> 14. <hi>Vnitas ab vno sed non ad vnum</hi> vnity comes of one, but if it come to one it is no longer vnitie.</note> sayd <hi>Optatus.</hi>
+            </p>
+            <p>Well was it for that man who abrenounced the Catholique Church, holding God had lost his Church, and therefore would beginne to shape God a new one, and baptize himselfe first; Well was it for that man that he saw his sinne, and the Church his teares.</p>
+            <p>But pittie we that Nouice in knowledge,<note place="margin">Robinson An<g ref="char:EOLhyphen"/>gloleydensis Apol. Brownist. p. <hi>25.</hi>
+               </note> that <hi>Nouator</hi> by inuention, at best (and thats bad e<g ref="char:EOLhyphen"/>nough) that <hi>Nouatian</hi> by profession, who speakes onely his owne tongue, in deuiding himselfe from that bodie which the Spirit of Iesus in<g ref="char:EOLhyphen"/>formes, in seperating himselfe from the commu<g ref="char:EOLhyphen"/>nion of a principall part; in spreading his papers before the eyes of all men, that it is incongruous Diuinitie for a Christian to say the <hi>Pater noster</hi> by himselfe; these are his words, <hi>Vt verò quis solus et siue alio dicat Pater noster vix congruum videtur:</hi> I know it is incongruous Diuinitie among such as are not of the Church; for how can they say, <hi>Our
+<pb n="18" facs="tcp:4653:14"/> Father,</hi> who are not his children? How little haue such beene acquainted with the language of the holy Ghost? Christ Iesus our head vnderstood a mysterious congruity in it when he had his Apo<g ref="char:EOLhyphen"/>stles <hi>enter into their closetts and shut their doores, and pray,</hi> Mat. 6.6. and two verses after, <hi>after this manner pray yee: Our Father, &amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">L. Dominus no<g ref="char:EOLhyphen"/>biscum cap. <hi>6.</hi>
+               </note>
+               <hi>Petrus Damianus,</hi> an auncient Bishop, in de<g ref="char:EOLhyphen"/>monstrating the Communion of them, who are Saints in this practize of prayer, assures vs <hi>Quod ne{que} hic pluralibus verbis vrius personae solitudo pre<g ref="char:EOLhyphen"/>iudicat, ne{que} illic multitude fidelium a singularitate discordat;</hi> the solitude of one person is not preiu<g ref="char:EOLhyphen"/>diciall to the plurall words, nor the multitude of beleeuers disaduantageous to euery seuerall mans good; euery particular is vniuersall, and the vni<g ref="char:EOLhyphen"/>uersall is particular (the communion of Saints is an heauenly and diuine Logi<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>) and that holy mans reason is,<note place="margin">In toto vniuer<g ref="char:EOLhyphen"/>sali quicquid totius est, etiam partis est.</note> because of that Spirit which is in euery man, and fills all, and vnites all the partes. Then when we say, <hi>pater-noster,</hi> each of vs by our selues, there is (saith he) <hi>solitudo pluralis:</hi> when more pray together, there is <hi>multitudo singularis</hi> one for all, and all for euery one, for all are one. And this is a sure and perfect representation of that mutuall circumincession, and auncient <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of the three first Saints.</p>
+            <p>Thus you haue seene in the generall who are the Saints of our Communion, and who are not; (!) they who speake all languages <hi>per spiritum vnitatis &amp; charitatis.</hi>
+            </p>
+            <p>I must now descend to particulars, and declare that Heretiques who peruert the Faith: schisma<g ref="char:EOLhyphen"/>tiques
+<pb n="19" facs="tcp:4653:14"/> who haue relinquish'd charitie: Apostatats forlorne of hope, are not Saints of our communi<g ref="char:EOLhyphen"/>on: Now (sayth S. <hi>Paul) remayne fayth, hope,</hi>
+               <note place="margin">1 Cor. 13.</note>
+               <hi>and charitie,</hi> these three, and onely these three to bring vs vnto God, and if these fayle what remaines?</p>
+            <p>It concernes vs not a little to know who are the men with whom we must Communicate, and therefore also to vnderstand whether in the Church, great and knowne sinners, secret Infi<g ref="char:EOLhyphen"/>dels, and excommunicate be of our communion, and how farre we must communicate with them, and in what things? And amongst men of ano<g ref="char:EOLhyphen"/>ther temper, whether the weaklings and not per<g ref="char:EOLhyphen"/>fect be Saints of our Communion, and of our conuersation with them.</p>
+            <p>Beloued, let me not be mistaken, that I go about to tell you who are elect, who are reprobate: for that were to vsurpe omniscience: the Lord onely knowes his owne: but because these thinges all, are with great eagernesse disputed, and because it behooueth vs to know how farre our communi<g ref="char:EOLhyphen"/>on is extended? how limited? how inlarged? and because God hath reuealed himselfe with what kinde of men we must communicate, and in what things, and how farre: these we must know if we would be knowne of God for his.</p>
+            <p>To speake onely of the three first sorts of men at this time, for these things require many Ser<g ref="char:EOLhyphen"/>mons, our greatest paines; your best attention, and so much the more, by how much the com<g ref="char:EOLhyphen"/>munion of Saints hath beene neglected; for from the dayes of our Sauiour, vntill this houre, no one man hath beene so charitable vnto the Saints as to bestow one whole Sermon vpon their com<g ref="char:EOLhyphen"/>munion
+<pb n="20" facs="tcp:4653:15"/> (for any thing that I can find) nor any iust Treatise, onely some little expositions, except onely one Schismatique, who appropriates this cōmunion most vniustly vnto his own seperatiō.</p>
+            <p>Now then for the first three it is plaine, these are not of our communion, neither can they haue <hi>fellowship with God the Father, and his sonne Iesus Christ:</hi> so long as they are such;</p>
+            <p n="1">1. First, not Apostata's, flinchers, voluntary re<g ref="char:EOLhyphen"/>nouncers of Christ Iesus, &amp; the societies of good men, bidding all Religion farewell, fighting for gentilisme in life,<note place="margin">Hereticus spiri<g ref="char:EOLhyphen"/>talis adulter: Caralitanus de non conueniendo cum haereticis in Opusculo. Haeresis idôlum Noui Test: Hie<g ref="char:EOLhyphen"/>ronym: in Ose. cap. <hi>11.</hi> Aug. l. de fid. et Symbol. c. <hi>10.</hi> Ireneus l. <hi>3.</hi> cap. <hi>3.</hi> &amp;c. De balneo non lotus exiliuit di<g ref="char:EOLhyphen"/>cens, quod ti<g ref="char:EOLhyphen"/>meat ne balne<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Concidat cum intus esset Ce<g ref="char:EOLhyphen"/>rinthus inimicus veritatis; et ip<g ref="char:EOLhyphen"/>se Policarpus Marcioni oc<g ref="char:EOLhyphen"/>curenti si bi &amp; dicenti cognosce nos re<g ref="char:EOLhyphen"/>spondit cogno<g ref="char:EOLhyphen"/>sco te primoge<g ref="char:EOLhyphen"/>nitum satanae: Tanti Apostoli &amp; borum disci<g ref="char:EOLhyphen"/>puli habuerunt timorem vt ne<g ref="char:EOLhyphen"/>que verbo tenus communicarent alicui corum qui adulter a<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>rant veritatem.</note> and heresie in iudgment. These are not of the Church, nor of our communion: he <hi>who hath the Doctrine of Christ, hath the Father and the Sonne; but if any man come vnto you and bring not this Doctrine, receiue him not to house, bid him not God speed,</hi> 2 Ioh. 9.10. So neither are Heretiques nor Schismatiques of the Saints, nor of the true Church, because a fundamentall heretique diuids himself from the head <hi>Christ Iesus;</hi> a schismatique from the body his Church: So sayd <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Augustine, Hereticus non pertinet ad ecclesiam Catholicam quoni<g ref="char:EOLhyphen"/>am diligit Deum; nec schismaticus quoniam diligit proximum,</hi> He is against fayth, the other against charitie: with one of these wee are tyed to Christ the head, with the other vnto his body: now if these sinewes be cut off by vs, we cut our selues from the head and bodie of Christ.</p>
+            <p n="2">2. For him then <hi>after one or two admonition reiect him,</hi> Tit. 3.10. If <hi>Cerinthus</hi> be in the bath S. <hi>Iohn</hi> will not stay there.</p>
+            <p n="3">3. And for the schismatique he is touching him<g ref="char:EOLhyphen"/>selfe so long as he is such, in as poore a case, for in that he separats from the body of the Church he
+<pb n="21" facs="tcp:4653:15"/> cannot haue the Spirit of Christ: So S. <hi>Iude</hi> v. 19. <hi>Hi sunt qui segregant se ipsos, animales, Spiritum non habentes:</hi> The tree of life grew no where but in the midst of Paradise; nor is Christ to be found &amp; life eternal, but in the vniuersall Church: his pro<g ref="char:EOLhyphen"/>mises are onely giuen vnto his Church,<note place="margin">
+                  <hi>It is the heresie of</hi> Arrius, <hi>to put no diffe<g ref="char:EOLhyphen"/>rence between</hi> Episcopus, <hi>and</hi> Presbyter, Epi<g ref="char:EOLhyphen"/>phani haeres <hi>75.</hi> Aug. haeres. <hi>53. It is the schisme of the</hi> Audians <hi>to ob<g ref="char:EOLhyphen"/>iect the riches of the Church.</hi> Epiph. haeres. <hi>70</hi> Constantine <hi>that glorious Em<g ref="char:EOLhyphen"/>perour,</hi> Oscula<g ref="char:EOLhyphen"/>tus est Episco<g ref="char:EOLhyphen"/>porum vulnera: &amp; Sacerdotum facinora, imò stupra, suo pa<g ref="char:EOLhyphen"/>ludamento, ob<g ref="char:EOLhyphen"/>tecturum se pro<g ref="char:EOLhyphen"/>fitebatur, Theod. hist l. c. <hi>11.</hi> At detestabilis nequitia Aria<g ref="char:EOLhyphen"/>norum commu<g ref="char:EOLhyphen"/>nes patres asper<g ref="char:EOLhyphen"/>natur &amp; suos ipsorum perne<g ref="char:EOLhyphen"/>gat. Theod. c. <hi>12</hi> Cpy. l. <hi>4.</hi> Epist. <hi>9</hi> Procalice pocu<g ref="char:EOLhyphen"/>la lignea vino implentur, Ludo. Lauather. hist. Sacrament.</note> his coue<g ref="char:EOLhyphen"/>nants only drawne between him and his Church: then without the Church, without the promise and couenant; without these, without Paradise &amp; saluation: they therefore who seperate from their Bishops and Presbyters, &amp; equall them both: that both may haue but equal pensions: and list at the first, that they may leuell the latter with the dust in the streets, &amp; all to teare the coat of Christ; they who seperate from the church because the Bishops please them not, by reason of their iurisdiction (!) because the Apostles please them not (for there is not one drop of Apostolicall blood amongst vs, if it runne not more liberally in their veines) I say, they who seperate from them, and from their Presbyters (as all Schisme euer came from their contempt) and are not well ioyned <hi>cohaerentium sibi inuicem Sacerdotum glutino;</hi> with the glue of of Priests (as S. <hi>Cyprian</hi> speakes) all these come not within the spheare of the Holy Ghosts actiuity, what cup discipline soeuer the <hi>Brownists</hi> study; or what conuenticle soeuer the Seperatists approue: or what woodden discipline soeuer some <hi>Zuingli<g ref="char:EOLhyphen"/>ans</hi> haue practized, or what course soeuer, &amp; singu<g ref="char:EOLhyphen"/>lar way, any sort of men take different or contrary to the vniuersall Church which violates charity.</p>
+            <p>Let me then for conclusion beseech you all that heare me, euen by that blood which was shed for the <hi>sins of the world,</hi> and by his death, <hi>who died for
+<pb n="22" facs="tcp:4653:16"/> all men,</hi> and by those merites which millions of sinfull worlds cannot impouerish; that none of you looke toward the sinfull Apostata in life (for the errors of the will, will draw errors of iudge<g ref="char:EOLhyphen"/>ment, and both of them draw iudgement from the God and Iudge of all:<note place="margin">Tatinus Adae Saluti contra<g ref="char:EOLhyphen"/>dictionem facit. Irenaeus l. <hi>1.</hi> c. <hi>31.</hi>
+               </note> nor let any of you in<g ref="char:EOLhyphen"/>cline vnto the Heritique in beliefe, nor with the Schismatique (reprobating himselfe, in reproba<g ref="char:EOLhyphen"/>ting all besides his owne brood) restraine Gods loue to our selues, limit the common saluation to a few, extend our owne charity to none.</p>
+            <p>I cannot now declare, what Communion wee must haue either with particular Churches, or particular men of what stampe soeuer (which by the aydes of Gods Spirit I shall heereafter) yet haue you as little to doe with the two first sorts of men, as some of the strictest in the Church of <hi>Rome</hi> haue with vs in things spirituall, who say not grace, no not at their owne tables, if a Prote<g ref="char:EOLhyphen"/>stant bee present. Let all that you haue to doe with the two first (I say) in the things of God, be to pray for their conuersion, or to compell them by a punishing mercy, and sauing seuerity.</p>
+            <p>For the last man, as we are not to seperate with him, so not from him; but to conuerse to dispute, perswade, to preach vnto him vnitie (if harmo<g ref="char:EOLhyphen"/>ny haue not blowne him foorth of the Church, and beyond the Seas) to exhort him that hee would be pleased to amend and conforme him<g ref="char:EOLhyphen"/>selfe, before hee begin to patch and reforme the Church; that hee would first vnderstand Gods Booke, before he venture to make God a new Bi<g ref="char:EOLhyphen"/>ble; that he would first learne before hee presume to teach, especially his teachers, and reforme the
+<pb n="23" facs="tcp:4653:16"/> Bishops (as some who in <hi>Irenaeus</hi> his time,<note place="margin">
+                  <hi>Irenaeus l.</hi> 3. <hi>c.</hi> 1. Matth. 25. Gal. 5.6.</note> call'd themselues <hi>Emendatores Apostolorum,</hi> forsooth, the menders of the Apostles.) That they would get them <hi>oyle in their Lamp's,</hi> as well as fire in their weeks: for <hi>faith works by loue,</hi> for their fiery faith without charity, will be but a blast to the world, but a dangerous burning to themselues.</p>
+            <p>Perswade them by all Christian peaceablenes, and by the <hi>meekenesse of Iesus</hi> himselfe,<note place="margin">Tettul. aduers. Marcion. l. <hi>5.</hi> Spongia Marci<g ref="char:EOLhyphen"/>onis. Interpuncta Iouiniani.</note> that they vse no longer <hi>Marcion</hi> the Heretiques <hi>Sponge:</hi> nor <hi>Arrius</hi> his <hi>red-chalke:</hi> nor <hi>Iouinians inter<g ref="char:EOLhyphen"/>pointings,</hi> with which they defaced the truth of God, for they haue <hi>Marcions Sponge,</hi> or that which is worse, they wipe the image of God out of the booke of life by vncharitable censure, by vnwise and hastie iudgement. They haue <hi>Arrius</hi> his <hi>red-chalke,</hi> or worse,<note place="margin">Miniatula Arij Creta.</note> painting euery christi<g ref="char:EOLhyphen"/>an, whose soules cost as much precious blood as theirs, yea, euery Priest of the High God, who perhappes dissents but indifferencies with the coale of the fowlest and blackest imputations. And they haue <hi>Iouinians interpuncts</hi> too,<note place="margin">Interpuncta Iouiniani.</note> or worse, for they will make their pause and and their periods where they should not, they will begin to commend vpon other mens commendations, and then make the ordinary stop: <hi>But;</hi> shaking their heads, intimating great crimes (no doubt) in him, they can know no euill by: and whereas <hi>Iouinianus</hi> corrupted with his points, but the dead letter, these misinterprete the voyces, the sermons, the liues of most inno<g ref="char:EOLhyphen"/>cent and Orthodox men: Admonish them (I say,) that their practises please not God,<note place="margin">Ioh. 16.2.</note> and that they must not <hi>kill the Lords disciples, and then thinke
+<pb n="24" facs="tcp:4653:17"/> they haue done God good seruice.</hi>
+            </p>
+            <p>
+               <note place="margin">Rom. 3.17.</note>Lastly, <hi>if the way of peace they haue at all knowne,</hi> if any of vs, haue any communion with any of them, let it be to this end, that they separate not themselues from their owne Pastors, that are able to administer any counsell or comfort; for if <hi>they contemne these little ones, they contemne him that sent them:</hi> and if in contempt they separate from him, they haue made their first step and act to that finall separation (as vpon great reasons I am re<g ref="char:EOLhyphen"/>solued:) But let not this be taken, that the helpes of other <hi>Pastors</hi> may not be required, but that our ordinary communion be with our owne.</p>
+            <p>And let vs daily beseech our Lord Iesus, <hi>the prince of peace,</hi> to put an end to these warres and dissentions of his Church, and that he would ha<g ref="char:EOLhyphen"/>sten,<note place="margin">Matth. 13.41.</note>
+               <hi>to take out of his kingdome</hi> (according to his promise) <hi>all that doth offend;</hi> That the body of the Lord Iesus may no longer fight against it selfe:<note place="margin">Preached at the end of <hi>Hilary</hi> Terme. 1620.</note> Oh preserue his body: speake all the languages of the whole, and euery part of it: and whereso<g ref="char:EOLhyphen"/>euer you shal be seuer'd, speake our language, and we shall speake yours, haue <hi>communion with vs,</hi> as we <hi>haue with the Father, and his Sonne Iesus Christ:</hi> Loue you the vniuersall Church, Christ Iesus will loue you.</p>
+            <p>I end with S. <hi>Pauls</hi> exhortation, compellation, adiuration:<note place="margin">Phil 2.1.2.</note>
+               <hi>If there be any consolation in Christ, if any comfort of loue, if any communion of the Spirit,</hi> (they are his words) <hi>if any bowels &amp; mercyes fulfill my ioy, that ye be of one meaning, hauing the same loue, of one minde, agreeing in one, doing nothing by conten<g ref="char:EOLhyphen"/>tiō, or vain glory:</hi> If we haue any loue to our selues, if any to our Lord Iesus, thinke on these things.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:4653:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
